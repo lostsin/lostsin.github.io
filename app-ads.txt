@@ -1,4 +1,5 @@
 ownerdomain=lostsin.github.io
+google.com, pub-4874056275388574, DIRECT, f08c47fec0942fa0
 improvedigital.com, 2464, RESELLER
 inmobi.com, 0c8e054083954c68a45044396a1c3df8, RESELLER, 83e75a7ae333ca9d
 pubnative.net, 1009046, RESELLER, d641df8625486a7b
